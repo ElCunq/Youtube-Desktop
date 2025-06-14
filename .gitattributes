@@ -3,5 +3,6 @@ youtube.desktop filter=lfs diff=lfs merge=lfs -text
 cromite filter=lfs diff=lfs merge=lfs -text
 icon.png filter=lfs diff=lfs merge=lfs -text
 preload.js filter=lfs diff=lfs merge=lfs -text
+profile filter=lfs diff=lfs merge=lfs -text
 cromite/chrome~ filter=lfs diff=lfs merge=lfs -text
 cromite/chrome filter=lfs diff=lfs merge=lfs -text
