@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=YouTube Ad-Free
+Exec=bash -c 'DIR="$(dirname $(realpath %k))"; "$DIR/start.sh"'
+Icon=${HOME}/.local/share/icons/youtube-desktop/icon.png
+Type=Application
+Categories=AudioVideo;Player;
+StartupNotify=false
+Terminal=false
