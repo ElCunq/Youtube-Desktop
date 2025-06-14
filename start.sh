@@ -1,23 +1,3 @@
-#!/bin/bash
-
-# === START.SH ===
-# Linux için başlatıcı
-
-APP_PATH=$(dirname "$(realpath "$0")")
-PROFILE_PATH="$APP_PATH/profile"
-REDIRECTOR="file://$APP_PATH/redirector.html"
-
-"$APP_PATH/cromite/chrome" \
-  --user-data-dir="$PROFILE_PATH" \
-  --no-first-run \
-  --no-default-browser-check \
-  --disable-popup-blocking \
-  --app=$REDIRECTOR \
-  --window-size=1280,720 \
-  --enable-features=OverlayScrollbar \
-  --force-device-scale-factor=1 \
-  --enable-gpu-rasterization \
-  --enable-zero-copy \
-  --disable-renderer-backgrounding \
-  --disable-background-networking \
-  --disable-translate
+version https://git-lfs.github.com/spec/v1
+oid sha256:cad03647237df7f976db16a344686a2d09abaa93c153c60185b5e4f840783f5f
+size 540

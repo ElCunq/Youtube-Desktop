@@ -1,8 +1,3 @@
-[Desktop Entry]
-Name=YouTube Ad-Free
-Exec=bash -c 'DIR="$(dirname $(realpath %k))"; "$DIR/start.sh"'
-Icon=${HOME}/.local/share/icons/youtube-desktop/icon.png
-Type=Application
-Categories=AudioVideo;Player;
-StartupNotify=false
-Terminal=false
+version https://git-lfs.github.com/spec/v1
+oid sha256:68a93e037ffae4edc90cbdce0c16f1edbf556cd03b018cafe0818ee1ff457f60
+size 240
