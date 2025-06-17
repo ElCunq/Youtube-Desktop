@@ -13,7 +13,7 @@ A clean, minimal desktop client for YouTube — built using [Cromite](https://gi
 - ✅ Sponsor-skipping via [SponsorBlock](https://github.com/ajayyy/SponsorBlock)
 - ✅ Minimal UI, frameless window
 - ✅ No tabs, no bookmarks, no tracking
-- ✅ Works offline (portable), and also installable
+- ✅ Works portable, and also installable
 - ✅ Native `.desktop` launcher (Linux)
 - ✅ First-launch smart extension installer
 
